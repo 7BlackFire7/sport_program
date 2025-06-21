@@ -314,6 +314,8 @@
                             <span>Strength Trainer</span>
                             <h4>Bret D. Bowers</h4>
                             <p>Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.</p>
+                            <a href="trainer_reviews.php?trainer_id=1" class="text-button">Reviews and ratings for trainers</a>
+
                             <ul class="social-icons">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -332,6 +334,7 @@
                             <span>Muscle Trainer</span>
                             <h4>Hector T. Daigl</h4>
                             <p>Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.</p>
+                            <a href="trainer_reviews.php?trainer_id=1" class="text-button">Reviews and ratings for trainers</a>
                             <ul class="social-icons">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -350,6 +353,45 @@
                             <span>Power Trainer</span>
                             <h4>Paul D. Newman</h4>
                             <p>Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.</p>
+                            <a href="trainer_reviews.php?trainer_id=1" class="text-button">Reviews and ratings for trainers</a>
+                            <ul class="social-icons">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="trainer-item">
+                        <div class="image-thumb">
+                            <img src="assets/images/fourth-trainer.jpg" alt="">
+                        </div>
+                        <div class="down-content">
+                            <span>yoga trainer</span>
+                            <h4>Bloyd C. Harris</h4>
+                            <p>Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.</p>
+                            <a href="trainer_reviews.php?trainer_id=1" class="text-button">Reviews and ratings for trainers</a>
+                            <ul class="social-icons">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="trainer-item">
+                        <div class="image-thumb">
+                            <img src="assets/images/fifth-trainer.jpg" alt="">
+                        </div>
+                        <div class="down-content">
+                            <span>fitnes Trainer</span>
+                            <h4>William G. Stewart</h4>
+                            <p>Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.</p>
+                            <a href="trainer_reviews.php?trainer_id=1" class="text-button">Reviews and ratings for trainers</a>
                             <ul class="social-icons">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>

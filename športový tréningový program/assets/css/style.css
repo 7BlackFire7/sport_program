@@ -1,0 +1,47 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background: white;
+    padding: 30px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+h2, h3 {
+    text-align: center;
+}
+.review {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+.review:last-child {
+    border-bottom: none;
+}
+.stars {
+    color: gold;
+}
+form {
+    margin-top: 30px;
+}
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+button {
+    padding: 10px 20px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover {
+    background: #0056b3;
+}
