@@ -22,7 +22,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-training-studio.css">
 
-    <?php include 'header.php'; ?>
+    <?php include 'assets/parts/header.php'; ?>
 
 </head>
     
@@ -470,7 +470,7 @@
     
     <!-- Global Init -->
     <script src="assets/js/custom.js"></script>
-    <?php include 'footer.php'; ?>
+    <?php include 'assets/parts/header.php'; ?>
 
   </body>
 </html>

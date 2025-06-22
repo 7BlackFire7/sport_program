@@ -45,3 +45,69 @@ button {
 button:hover {
     background: #0056b3;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    background: #eef2f3;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    background: white;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+h2, h3 {
+    text-align: center;
+}
+.review {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+.review textarea {
+    width: 100%;
+    margin-top: 5px;
+}
+.stars {
+    color: gold;
+}
+form {
+    margin-top: 20px;
+}
+input, select, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 8px;
+    box-sizing: border-box;
+}
+button {
+    padding: 10px 20px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background: #0056b3;
+}
+.login-form, .register-form {
+    max-width: 400px;
+    margin: 0 auto 20px;
+    background: #f1f1f1;
+    padding: 20px;
+    border-radius: 10px;
+}
+a.logout-link {
+    color: red;
+    text-decoration: none;
+}
+.success {
+    color: green;
+}
+.error {
+    color: red;
+}
